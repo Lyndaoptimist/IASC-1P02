@@ -1,0 +1,37 @@
+body{
+  background-color: white;
+}
+
+.firstclass{
+  color: red;
+}
+
+#firstid{
+  color:green;
+}
+
+#secondid{
+  color: magenta
+}
+
+
+#greentext{
+  color:green;
+  font-weight: bold;
+}
+#ornge{
+  color: orange;
+}
+#purple{
+  color:purple;
+}
+
+#redsuper{
+  color:red;
+  vertical-align: super;
+
+  font-style: italic;
+  text-transform: uppercase;
+  display: inline;
+}
+/*comment goes here*/
